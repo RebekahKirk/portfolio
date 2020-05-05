@@ -46,12 +46,15 @@ body {
     0% {background-position: 0%}
     100% {background-position: 100%}
   }
-h1 {
+/* h1 {
     font: bolder
+    text-align: center; 
+} */
+.about {
+    align-content: center;
 }
-
 #para1 {
-    
+    text-align: center;
 }
 #para2 {
 
