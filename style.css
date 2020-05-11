@@ -33,7 +33,7 @@ body {
     Color: white;
 }
 .wrapper {
-    width: 100%;
+    width: auto;
     height: 100%;
     position: absolute;
     background: linear-gradient(45deg,#F17C58, #E94584, #24AADB , #27DBB1,#FFDC18, #FF3706);
@@ -65,5 +65,6 @@ h1 {
     /* padding-left: 500px; */
     align-content: center;
     column-count: 2;
-    padding: 200px;
+    padding-left: 250px;
+    padding-right: 250px;
 }
